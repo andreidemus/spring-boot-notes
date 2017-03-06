@@ -1,5 +1,4 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -86,3 +85,5 @@ hs_err_pid*
 
 notes.mv.db
 notes.trace.db
+
+!.mvn/wrapper/maven-wrapper.jar
